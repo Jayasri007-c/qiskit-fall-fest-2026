@@ -2,7 +2,7 @@
 
 **Event:** Qiskit Fall Fest 2026 (IBM Quantum)
 **Venue:** Vishnu Institute of Technology, Bhimavaram
-**Participant:** [Your Name] · [Roll Number]
+**Participant:** Jayasri Sanapathi 24B01A05F2
 
 Solutions to the four Qiskit Fall Fest 2026 challenges, all built with Qiskit and run on the Aer simulator with 100 shots per experiment.
 
